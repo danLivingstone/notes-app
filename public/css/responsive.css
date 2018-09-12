@@ -1,0 +1,23 @@
+/* RESPONSIVE STYLES */
+
+@media only screen and (max-width: 615px) {
+    .actions__container {
+        padding: 0 0.9rem;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+    .input {
+        margin-bottom: 0.3rem;
+    }
+
+    .dropdown {
+        margin-top: 0.3rem;
+    }
+}
+
+@media only screen and (max-width: 216px) {
+    #create-note {
+        margin-top: 0.4rem;
+    }
+}
